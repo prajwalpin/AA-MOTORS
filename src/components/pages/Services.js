@@ -12,12 +12,14 @@ export default function Services() {
   <li><a href="#electric">Why Electric</a></li>
 </ul>
 </div>
+    <div>
    <h1 className='services'>About Us</h1>
-  <div className='vision'> VISION </div>
+    </div>
+  <div className='vision'> VISION 
   <p id="#vision">To be Amongst the top Indian leading players in Electric Two Wheelers by providing customers best of the electric mobility experiences through continuous research and development.</p>
   <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a revolution & Innovation into electric mobility. Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
   <p>The Benling goal is to carry on their legacy of innovative thinking in Electric Vehicle segment and to develop products that will help Indian Market to cater the needs of a consumer in EV by providing a Safe and Clean drive.</p>
-  
+  </div>
   <div className='mission'> MISSION </div>
   <p id="mission">Keeping the environment as an utmost priority Benling strives to work towards providing the Indian market with eco-friendly modes of transportation.
 
