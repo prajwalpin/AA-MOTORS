@@ -21,6 +21,13 @@ function Cards() {
               label='Luxury'
               path='/services'
             />
+    
+            <CardItem
+              src='images/img-10.jpg'
+              text='Benling Aura'
+              label='Mystery'
+              path='/services'
+            />
             
           </ul>
           <ul className='cards__items'>
