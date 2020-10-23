@@ -16,7 +16,9 @@ To provide Indian societies with Zero Emission vehicles, Benling India continuou
 
 Providing Indian Market with high-end mobility technologies with No Pollution, No Noise, more greenery, zero co2 emission.
 </p>
-  <div className='electric'>
+    <br>
+    
+  <div className='electric'> Why Electric
     Electric Vehicles are not going to take the market by storm, but it’s going to be a gradual improvement. No doubt, the demand for vehicles in India has increased numerously during the last decade adding to the rapidly increasing pollution levels in the country. In fact, the top 10 most polluted cities in the world are in India and China.
 
 Considering Increasing Pollution in India, Benling adopted the technology of producing electric scooters which will surely overcome the challenges of environmental pollution and it will be eco-friendly as well as economical. Saving in case of one electric scooter in operating expenses is 97200 with annual fuel cost(72000km/4 year) is Rs. 18,000.
