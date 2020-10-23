@@ -3,7 +3,7 @@ import '../../App.css';
 
 export default function Services() {
   return (
-  <>  
+  
   <div className='about'>
     <ul>
   <li><a href="#about">About Us</a></li>
@@ -36,7 +36,7 @@ Considering Increasing Pollution in India, Benling adopted the technology of pro
 
 Developing Electric Vehicles will assist in energy conservation and security in India since energy efficiency is 46% higher than the internal combustion (ICEs) engines. Electric Vehicles also have the potential to decrease carbon dioxide emission by 13- 68% directly, through advanced V2G ( Vehicle to Grid) technology and indirectly through peak shaving. Developing Electric Vehicle would reduce reliance on oil imports as India is among the top 5 oil importers in the world.</p>
 </div>
-  </>
+  
   );
   
 }
