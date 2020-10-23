@@ -21,14 +21,15 @@ function Cards() {
               label='Luxury'
               path='/services'
             />
-          </ul>
-          <ul className='cards__items'>
             <CardItem
               src='images/img-3.jpg'
               text='Benling Falcon'
               label='Mystery'
               path='/services'
             />
+          </ul>
+          <ul className='cards__items'>
+            
             <CardItem
               src='images/img-4.jpg'
               text='Benling Aura'
