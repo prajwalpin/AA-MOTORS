@@ -21,26 +21,17 @@ function Cards() {
               label='Luxury'
               path='/services'
             />
-            <CardItem
-              src='images/img-3.jpg'
-              text='Benling Falcon'
-              label='Mystery'
-              path='/services'
-            />
+            
           </ul>
           <ul className='cards__items'>
             
             <CardItem
-              src='images/img-4.jpg'
+              src='images/img-10.jpg'
               text='Benling Aura'
-              label='Adventure'
-              path='/products'
+              label='Mystery'
+              path='/services'
             />
-            <CardItem
-              src='images/img-8.jpg'
-              text='Benling Falcon'
-              label='Adrenaline'
-              path='/sign-up'
+           
             />
           </ul>
         </div>
