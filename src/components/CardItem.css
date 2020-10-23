@@ -27,7 +27,7 @@
   
   .cards__item {
     display: flex;
-    flex: 1 80%;
+    flex: 1 100%;
     margin: 0 1rem;
     border-radius: 10px;
   }
