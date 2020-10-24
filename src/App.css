@@ -44,8 +44,9 @@
 }
 
 .boxabt{
-              
-        background: url('/images/img-1.jpg') no-repeat;
+        width: 800px;
+        height: 800px;      
+        background-image: url('/images/img-1.jpg') no-repeat;
         background-size: cover;
         margin: 20px;
         background-size: fill;
