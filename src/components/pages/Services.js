@@ -4,8 +4,9 @@ import '../../App.css';
 
 export default function Services() {
   return (
-	  <img src="images/img-9.jpg" alt="benling"></img>
+	  
   <div className="head">
+   <img src="images/img-9.jpg" alt="benling"></img>
    <div className="header">
     <h3>Ride Like <span>Never Before</span></h3>
      <ul className="nav nav-tabs" id="myTab" role="tablist">
