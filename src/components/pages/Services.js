@@ -25,7 +25,7 @@ export default function Services() {
 													</div>
 						</div>
   <div className="tab-pane fade" id="mission" role="tabpanel" aria-labelledby="mission-tab">
-							<p>Keeping the environment as an utmost priority Benling strives to work towards providing the Indian market with eco-friendly modes of transportation. To provide Indian societies with Zero Emission vehicles, Benling India continuously works on innovation and technology in association with its technology partner to provide our customers with best of the technology experience and our customers can reach their destinations without harming the environment .<br><br>Providing Indian Market with high-end mobility technologies with No Pollution, No Noise, more greenery, zero co2 emission.</p>
+							<p>Keeping the environment as an utmost priority Benling strives to work towards providing the Indian market with eco-friendly modes of transportation. To provide Indian societies with Zero Emission vehicles, Benling India continuously works on innovation and technology in association with its technology partner to provide our customers with best of the technology experience and our customers can reach their destinations without harming the environment .Providing Indian Market with high-end mobility technologies with No Pollution, No Noise, more greenery, zero co2 emission.</p>
 							<div class="row">
 													</div>
 						</div>
