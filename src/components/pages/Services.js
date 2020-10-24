@@ -1,8 +1,8 @@
 import React from 'react';
 import '../../App.css';
-import { Link } from 'react-router-dom';
 
-export default function Services(props) {
+
+export default function Services() {
   return (
   
  /* <div className='about'>
@@ -38,13 +38,13 @@ Considering Increasing Pollution in India, Benling adopted the technology of pro
 Developing Electric Vehicles will assist in energy conservation and security in India since energy efficiency is 46% higher than the internal combustion (ICEs) engines. Electric Vehicles also have the potential to decrease carbon dioxide emission by 13- 68% directly, through advanced V2G ( Vehicle to Grid) technology and indirectly through peak shaving. Developing Electric Vehicle would reduce reliance on oil imports as India is among the top 5 oil importers in the world.</p>
 </div>
   
+	*/
 	
-	
-  <div class="col-lg-6">
-				<div class="market_text">
+  <div className="col-lg-6">
+				<div className="market_text">
 					<h3>Ride Like <span>Never Before</span>					</h3>
-					<ul class="nav nav-tabs" id="myTab" role="tablist">
-								<li class="nav-item">
+					<ul className="nav nav-tabs" id="myTab" role="tablist">
+								<li className="nav-item">
 							<a class="nav-link" id="vision-tab" data-toggle="tab" href="#vision" role="tab" aria-controls="vision" aria-selected="false">
 			Vision</a></li>
 									<li class="nav-item">
@@ -60,12 +60,12 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 							<div class="row">
 													</div>
 						</div>
-									<div class="tab-pane fade" id="mission" role="tabpanel" aria-labelledby="mission-tab">
+									<div className="tab-pane fade" id="mission" role="tabpanel" aria-labelledby="mission-tab">
 							<p>Keeping the environment as an utmost priority Benling strives to work towards providing the Indian market with eco-friendly modes of transportation. <br><br>To provide Indian societies with Zero Emission vehicles, Benling India continuously works on innovation and technology in association with its technology partner to provide our customers with best of the technology experience and our customers can reach their destinations without harming the environment .<br><br>Providing Indian Market with high-end mobility technologies with No Pollution, No Noise, more greenery, zero co2 emission.</p>
 							<div class="row">
 													</div>
 						</div>
-									<div class="tab-pane fade active show" id="why_electric" role="tabpanel" aria-labelledby="why_electric-tab">
+									<div className="tab-pane fade active show" id="why_electric" role="tabpanel" aria-labelledby="why_electric-tab">
 							<p>Electric Vehicles are not going to take the market by storm, but it’s going to be a gradual improvement.
 No doubt, the demand for vehicles in India has increased numerously during the last decade adding to the rapidly increasing pollution levels in the country. In fact, the top 10 most polluted cities in the world are in India and China.<br><br>
 
@@ -80,24 +80,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 			</div>
   
   
-  );   */
-	  <>
-	  <li className='cards__item'>
-        <Link className='cards__item__link' to={props.path}>
-          <figure className='cards__item__pic-wrap' data-category={props.label}>
-            <img
-              className='cards__item__img'
-              alt='Travel'
-              src={props.src}
-            />
-          </figure>
-          <div className='cards__item__info'>
-            <h5 className='cards__item__text'>{props.text}</h5>
-          </div>
-        </Link>
-      </li>
-    </>
-  );
-
+  );   
+	  
   
 }
