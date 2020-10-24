@@ -211,7 +211,7 @@ export default function Products() {
         </div>
       </section>
     </div>
- /* <h1 className='products'>PRODUCTS</h1>; */
+ 
 </>
     );
 }
