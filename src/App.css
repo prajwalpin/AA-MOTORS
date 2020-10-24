@@ -145,3 +145,7 @@
 .cards-1 .card-title {
 	margin-bottom: 0.625rem;
 }
+
+.card {
+display: inline;
+}
