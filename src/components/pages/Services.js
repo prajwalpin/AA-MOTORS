@@ -55,10 +55,14 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                 <div className="col-lg-5">
                     <div className="text-container">
                         <div className="section-title">ADVENTURE AWAITS LIKE NEVER BEFORE</div>
+	  
                         <h2>We Offer Some Of The Best Electric Bikes In Town</h2>
-                        <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a Revolution & Innovation into Electric Mobility. Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
-                        <p className="testimonial-text">"Our mission here at A A Motors is to carry on the legacy of Benling's innovative thinking in Electric Vehicle segment and to develop products that will help Indian Market to cater the needs of a consumer in EV by providing a Safe and Clean drive."</p>
-                        <div className="testimonial-author">Louise Donovan - CEO</div>
+	  
+                        <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a Revolution & Innovation into Electric Mobility.</p>
+	                <p>Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
+                        
+	                <p className="testimonial-text">"Our mission here at A A Motors is to carry on the legacy of Benling's innovative thinking in Electric Vehicle segment and to develop products that will help Indian Market to cater the needs of a consumer in EV by providing a Safe and Clean drive."</p>
+                        <div className="testimonial-author">AA MOTORS - CEO</div>
                     </div> 
                 </div> 
                 <div className="col-lg-7">
