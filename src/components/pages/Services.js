@@ -63,7 +63,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                 </div> 
                 <div className="col-lg-7">
                     <div className="image-container">
-                        <img className="img-fluid" src="/images/image-1.jpg" alt="alternative"></img>
+                        <img className="img-fluid" src="/images/img-1.jpg" alt="alternative"></img>
                     </div> 
                 </div> 
             </div> 
