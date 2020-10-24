@@ -154,4 +154,4 @@ export default function Album() {
     </React.Fragment>
   );
 }
-}
+
