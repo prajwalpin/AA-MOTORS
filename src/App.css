@@ -54,3 +54,8 @@
         background-size: cover;
         
     } 
+
+.nav nav-tabs {
+  display: inline;
+}
+  
