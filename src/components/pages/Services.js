@@ -54,10 +54,10 @@ Developing Electric Vehicles will assist in energy conservation and security in 
             <div className="row">
                 <div className="col-lg-5">
                     <div className="text-container">
-                        <div className="section-title">INTRO</div>
-                        <h2>We Offer Some Of The Best Business Growth Services In Town</h2>
-                        <p>Launching a new company or developing the market position of an existing one can be quite an overwhelming processs at times.</p>
-                        <p className="testimonial-text">"Our mission here at Aira is to get you through those tough moments relying on our team's expertise in starting and growing companies."</p>
+                        <div className="section-title">ADVENTURE AWAITS LIKE NEVER BEFORE</div>
+                        <h2>We Offer Some Of The Best Electric Bikes In Town</h2>
+                        <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a Revolution & Innovation into Electric Mobility. Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
+                        <p className="testimonial-text">"Our mission here at A A Motors is to carry on the legacy of Benling's innovative thinking in Electric Vehicle segment and to develop products that will help Indian Market to cater the needs of a consumer in EV by providing a Safe and Clean drive."</p>
                         <div className="testimonial-author">Louise Donovan - CEO</div>
                     </div> 
                 </div> 
