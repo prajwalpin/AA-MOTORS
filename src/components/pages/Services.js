@@ -6,7 +6,7 @@ export default function Services() {
   return (
 	  
   <div className="head">
-   <img src="images/img-1.jpg" alt="benling"></img>
+   <img className="aboutus" src="images/img-1.jpg" alt="benling"></img>
    <div className="header">
     <h3>Ride Like <span>Never Before</span></h3>
      <ul className="nav nav-tabs" id="myTab" role="tablist">
