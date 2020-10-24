@@ -44,7 +44,7 @@ export default function Products() {
                     <!-- Card -->
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="images/services-2.jpg" alt="alternative">
+                            <img className="img-fluid" src="images/services-2.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Accelerated Growth</h3>
@@ -70,7 +70,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="images/services-3.jpg" alt="alternative">
+                            <img className="img-fluid" src="images/services-3.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Market Domination</h3>
