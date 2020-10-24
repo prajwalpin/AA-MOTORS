@@ -9,7 +9,7 @@ export default function Products() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="section-title">SERVICES</div>
-                    <h2>Choose The Service Package<br> That Suits Your Needs</h2>
+                    <h2>Choose The Service Package That Suits Your Needs</h2>
                 </div> 
             </div> 
             <div className="row">
