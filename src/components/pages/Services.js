@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import { Link } from 'react-router-dom';
 
-export default function Services() {
+export default function Services(props) {
   return (
   
  /* <div className='about'>
