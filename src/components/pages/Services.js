@@ -67,7 +67,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 						</div>
 									<div className="tab-pane fade active show" id="why_electric" role="tabpanel" aria-labelledby="why_electric-tab">
 							<p>Electric Vehicles are not going to take the market by storm, but it’s going to be a gradual improvement.
-No doubt, the demand for vehicles in India has increased numerously during the last decade adding to the rapidly increasing pollution levels in the country. In fact, the top 10 most polluted cities in the world are in India and China.<br><br>
+No doubt, the demand for vehicles in India has increased numerously during the last decade adding to the rapidly increasing pollution levels in the country. In fact, the top 10 most polluted cities in the world are in India and China.<br><br/>
 
 Considering Increasing Pollution in India, Benling adopted the technology of producing electric scooters which will surely overcome the challenges of environmental pollution and it will be eco-friendly as well as economical. Saving in case of one electric scooter in operating expenses is 97200 with annual fuel cost(72000km/4 year) is Rs. 18,000.<br><br>
 
