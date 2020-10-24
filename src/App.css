@@ -127,6 +127,7 @@
 
 .cards-1 .fa-stack .hexagon {
 	position: absolute;
+	float: left;
 	width: 6rem;
 	height: 6rem;
 	background: url('/images/hexagon-green.svg') center center no-repeat;
