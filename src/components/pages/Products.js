@@ -8,6 +8,8 @@ import { Link } from 'react-router-dom';
 export default function Products() {
   return (
   <>
+    <div className='hero-containers'>
+     </div>	
     <div id="services" className="cards-2">
         <div className="container">
             <div className="row">
@@ -22,7 +24,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="images/services-1.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/img-1.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Aura</h3>
@@ -48,7 +50,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="images/services-2.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/img-2.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Accelerated Growth</h3>
@@ -74,7 +76,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="images/services-3.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/img-3.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Market Domination</h3>
