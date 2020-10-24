@@ -60,11 +60,11 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                         <p className="testimonial-text">"Our mission here at Aira is to get you through those tough moments relying on our team's expertise in starting and growing companies."</p>
                         <div className="testimonial-author">Louise Donovan - CEO</div>
                     </div> 
-                </div> <!-- end of col -->
+                </div> 
                 <div className="col-lg-7">
                     <div className="image-container">
                         <img className="img-fluid" src="/images/image-1.jpg" alt="alternative">
-                    </div> <!-- end of image-container -->
+                    </div> 
                 </div> 
             </div> 
         </div> 
