@@ -47,7 +47,6 @@
         width: 800px;
         height: 400px;      
         background: url('/images/img-1.jpg') no-repeat center center fixed;
-        background-size: contain;
         margin: 20px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
