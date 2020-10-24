@@ -70,10 +70,10 @@ Developing Electric Vehicles will assist in energy conservation and security in 
         </div> 
     </div> 
 	  
-	  <div class="cards-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
+	  <div className="cards-1">
+        <div className="container">
+            <div className="row">
+                <div className="col-lg-12">
                     
                     
                     <div className="card">
