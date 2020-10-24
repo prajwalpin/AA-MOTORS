@@ -60,9 +60,9 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                 <div className="col-lg-5">
                     <div className="text-container">
                         <div className="section-title">ADVENTURE AWAITS LIKE NEVER BEFORE</div>
-	  
+	                <br></br>
                         <h3>We Offer Some Of The Best Electric Bikes In Town</h3>
-	  
+	                <br></br>
                         <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a Revolution & Innovation into Electric Mobility.</p>
 	                <p>Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
                         <br></br>
