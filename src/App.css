@@ -58,4 +58,7 @@
 .nav nav-tabs {
   display: inline;
 }
-  
+.nav-item {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
