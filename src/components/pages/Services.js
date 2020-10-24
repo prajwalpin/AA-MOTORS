@@ -60,9 +60,10 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 	  
                         <p>We aim to improve mobility and create a sustainable ecosystem by bringing out a Revolution & Innovation into Electric Mobility.</p>
 	                <p>Given this, we have created a comprehensive roadmap to establish a robust EV ecosystem by investing in next-generation technology solutions and globally competitive products, spreading awareness among citizens for the adoption of sustainable mobility and provide Indian road with Zero CO2 emission vehicles.</p>
-                        
+                        <br></br>
 	                <p className="testimonial-text">"Our mission here at A A Motors is to carry on the legacy of Benling's innovative thinking in Electric Vehicle segment and to develop products that will help Indian Market to cater the needs of a consumer in EV by providing a Safe and Clean drive."</p>
-                        <div className="testimonial-author">AA MOTORS - CEO</div>
+                        <br></br>
+	                <div className="testimonial-author">AA MOTORS - CEO</div>
                     </div> 
                 </div> 
                 <div className="col-lg-7">
