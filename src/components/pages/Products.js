@@ -12,8 +12,8 @@ export default function Products() {
         <div className="container">
             <div className="row">
                 <div className="col-lg-12">
-                    <div className="section-title">SERVICES</div>
-                    <h2>Choose The Service Package That Suits Your Needs</h2>
+                    <div className="section-title">ELECTRIC BIKES</div>
+                    <h2>Choose The Bike That Suits Your Needs</h2>
                 </div> 
             </div> 
             <div className="row">
@@ -25,7 +25,7 @@ export default function Products() {
                             <img className="img-fluid" src="images/services-1.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">Off The Ground Off The Ground</h3>
+                            <h3 className="card-title">Aura</h3>
                             <p>Perfect for fresh ideas or young startups, this package will help get the business off the ground</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
