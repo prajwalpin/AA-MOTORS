@@ -24,7 +24,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/img-1.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/img-4.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Aura</h3>
