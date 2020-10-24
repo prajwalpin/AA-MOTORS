@@ -117,7 +117,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 	           <div className="card">
                         <span className="fa-stack">
                             <span className="hexagon"></span>
-                            <i className="fas fa-chart-pie fa-stack-1x"></i>
+                            <i className="fas fa-binoculars fa-stack-1x"></i>
                         </span>
                         <div className="card-body">
                             <h4 className="card-title">Pocket Friendly</h4>
