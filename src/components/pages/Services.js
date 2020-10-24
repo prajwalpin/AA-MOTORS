@@ -82,8 +82,8 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                             <i className="fas fa-binoculars fa-stack-1x"></i>
                         </span>
                         <div className="card-body">
-                            <h4 className="card-title">Environment Analysis</h4>
-                            <p>The starting point of any success story is knowing your current position in the business environment</p>
+                            <h4 className="card-title">No Registration</h4>
+                            
                         </div>
                     </div>
                     
@@ -95,8 +95,8 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                             <i className="fas fa-list-alt fa-stack-1x"></i>
                         </span>
                         <div className="card-body">
-                            <h4 className="card-title">Development Planning</h4>
-                            <p>After completing the environmental analysis the next stage is to design and  plan your development strategy</p>
+                            <h4 className="card-title">No Licence</h4>
+                           
                         </div>
                     </div>
                     
@@ -108,11 +108,25 @@ Developing Electric Vehicles will assist in energy conservation and security in 
                             <i className="fas fa-chart-pie fa-stack-1x"></i>
                         </span>
                         <div className="card-body">
-                            <h4 className="card-title">Execution & Evaluation</h4>
-                            <p>In this phase you will focus on executing the actions plan and evaluating the results after each marketing campaign</p>
+                            <h4 className="card-title">Anti Pollutant</h4>
+                            
                         </div>
                     </div>
                     
+	            
+	           <div className="card">
+                        <span className="fa-stack">
+                            <span className="hexagon"></span>
+                            <i className="fas fa-chart-pie fa-stack-1x"></i>
+                        </span>
+                        <div className="card-body">
+                            <h4 className="card-title">Pocket Friendly</h4>
+                         
+                        </div>
+                    </div>
+	  
+	           
+	           
 
                 </div> 
             </div> 
