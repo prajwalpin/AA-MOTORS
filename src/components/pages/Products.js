@@ -37,11 +37,11 @@ export default function Products() {
                         </div>
                         <div className="button-container">
                             <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> <!-- end of button-container -->
+                        </div> 
                     </div>
-                    <!-- end of card -->
+                    
 
-                    <!-- Card -->
+                    
                     <div className="card">
                         <div className="card-image">
                             <img className="img-fluid" src="images/services-2.jpg" alt="alternative"></img>
