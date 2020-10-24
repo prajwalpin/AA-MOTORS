@@ -4,7 +4,7 @@ import '../../App.css';
 
 export default function Services() {
   return (
-	  <img src="images/img-9.jpg" alt="benling" />
+	  <img src="images/img-9.jpg" alt="benling"></img>
   <div className="head">
    <div className="header">
     <h3>Ride Like <span>Never Before</span></h3>
