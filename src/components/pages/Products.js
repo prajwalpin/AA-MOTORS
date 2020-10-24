@@ -6,7 +6,7 @@ import { Button } from '../Button';
 import { Link } from 'react-router-dom';
 
 export default function Products() {
-  return 
+  return (
   <>
     <div id="services" className="cards-2">
         <div className="container">
@@ -213,5 +213,7 @@ export default function Products() {
     </div>
  /* <h1 className='products'>PRODUCTS</h1>; */
 </>
+    );
 }
+    
 
