@@ -28,18 +28,18 @@ export default function Products() {
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Aura</h3>
-                            <p>Perfect for fresh ideas or young startups, this package will help get the business off the ground</p>
+                            <p>Perfect for youngsters, this bike will elevate their mood</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Environment and competition</div>
+                                    <div className="media-body">Falcon</div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
                                     <div className="media-body">Designing the marketing plan</div>
                                 </li>
                             </ul>
-                            <p className="price">Starting at <span>$199</span></p>
+                            <p className="price">Starting at <span>Rs.40000/-</span></p>
                         </div>
                         <div className="button-container">
                             <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
@@ -53,19 +53,19 @@ export default function Products() {
                             <img className="img-fluid" src="/images/img-2.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">Accelerated Growth</h3>
-                            <p>Use this service pack to give your company the necessary impulse to become an industry leader</p>
+                            <h3 className="card-title">Icon</h3>
+                            <p>Perfect balance of speed and agility to drive past the city.</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Business strategy planning</div>
+                                    <div className="media-body">Power pack performance</div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Taking the planned actions</div>
+                                    <div className="media-body">Good ground clearance</div>
                                 </li>
                             </ul>
-                            <p className="price">Starting at <span>$299</span></p>
+                            <p className="price">Starting at <span>Rs.50000/-</span></p>
                         </div>
                         <div className="button-container">
                             <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
@@ -79,8 +79,8 @@ export default function Products() {
                             <img className="img-fluid" src="/images/img-3.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">Market Domination</h3>
-                            <p>You already are a reference point in your industry now you need to learn about acquisitions</p>
+                            <h3 className="card-title">Falcon</h3>
+                            <p>Balance of style and agility combined with power pack performance</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
@@ -88,10 +88,10 @@ export default function Products() {
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Acquisitions the right way</div>
+                                    <div className="media-body">Stlye quotient</div>
                                 </li>
                             </ul>
-                            <p className="price">Starting at <span>$299</span></p>
+                            <p className="price">Starting at <span>Rs.60000/-</span></p>
                         </div>
                         <div className="button-container">
                             <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
