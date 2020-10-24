@@ -4,7 +4,7 @@ import '../../App.css';
 export default function Services() {
   return (
   
-  <div className='about'>
+ /* <div className='about'>
     <ul>
   <li><a href="#about">About Us</a></li>
   <li><a href="#vision">Vision</a></li>
@@ -37,6 +37,8 @@ Considering Increasing Pollution in India, Benling adopted the technology of pro
 Developing Electric Vehicles will assist in energy conservation and security in India since energy efficiency is 46% higher than the internal combustion (ICEs) engines. Electric Vehicles also have the potential to decrease carbon dioxide emission by 13- 68% directly, through advanced V2G ( Vehicle to Grid) technology and indirectly through peak shaving. Developing Electric Vehicle would reduce reliance on oil imports as India is among the top 5 oil importers in the world.</p>
 </div>
   
+	
+	
   <div class="col-lg-6">
 				<div class="market_text">
 					<h3>Ride Like <span>Never Before</span>					</h3>
@@ -77,6 +79,24 @@ Developing Electric Vehicles will assist in energy conservation and security in 
 			</div>
   
   
+  );   */
+	  <>
+	  <li className='cards__item'>
+        <Link className='cards__item__link' to={props.path}>
+          <figure className='cards__item__pic-wrap' data-category={props.label}>
+            <img
+              className='cards__item__img'
+              alt='Travel'
+              src={props.src}
+            />
+          </figure>
+          <div className='cards__item__info'>
+            <h5 className='cards__item__text'>{props.text}</h5>
+          </div>
+        </Link>
+      </li>
+    </>
   );
+
   
 }
