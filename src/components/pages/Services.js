@@ -47,7 +47,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
   */
   
 	  
-	  
+	<>  
 	   
     <div id="intro" className="basic-1">
         <div className="container">
@@ -119,7 +119,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
         </div> 
       </div> 
     
-
+</>
 	  
   );   
 	  
