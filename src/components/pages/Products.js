@@ -23,12 +23,12 @@ export default function Products() {
             <div className="row">
                 <div className="col-lg-12">
                     
-                    <div className="black">
+                    
                     <div className="card">
                         <div className="card-image">
                             <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
                         </div>
-                        </div>
+                     
                         <div className="card-body">
                             <h3 className="card-title">KRITI</h3>
                             <p>60km per charge in eco mode</p>
