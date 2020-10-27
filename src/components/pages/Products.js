@@ -38,7 +38,14 @@ export default function Products() {
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">3-4 hr Charging</div>
+                                    <div className="media-body">
+                                      <h3>3-4 hr Charging</h3><br/>
+                                      <h3>Self Road Assistance Button</h3><br/>
+                                      <h3>Anti Theft Remote Lock</h3><br/>
+                                      <h3>150kg Loading Capacity</h3><br/>
+                                      <h3>Detachable Battery</h3><br/>
+                                      <h3>Push Button</h3><br/>
+                                      </div>
                                 </li>
                             </ul>
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
