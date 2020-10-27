@@ -30,12 +30,12 @@ export default function Products() {
                         </div>
                      
                         <div className="card-body">
-                            <h3 className="card-title">KRITI</h3>
-                            <p>60km per charge in eco mode</p>
+                            <h2 className="card-title">KRITI</h2><br/>
+                            <h3>60km per charge in eco mode</h3><br/>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Lithium-Ion/3 Years* Warranty</div>
+                                    <div className="media-body"><h3>Lithium-Ion/3 Years* Warranty</h3>/div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
