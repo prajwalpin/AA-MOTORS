@@ -21,7 +21,7 @@ export default function SignUp() {
                         <div class="col-md">Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, <br></br>
                                                          Divanarapalya, Yeswanthpur, Bengaluru, <br></br>
                                                           Karnataka 560022</div><br/>
-                        <div class="col-md">Email<br/>aamotors8@gmail.com</div>
+                        <div class="col-md">Email<br/>aamotors8@gmail.com</div><br/>
                     </div>
                     <form action="">
                         <div class="row margin-bottom-small center-xs">
@@ -30,12 +30,12 @@ export default function SignUp() {
                                 <div class="row">
                                     <div class="col-md">
                                         <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small"></input>
-                                        <input placeholder="Enter Your Email" type="email" name=""  value=""></input>
+                                        <input placeholder="Enter Your Email" type="email" name=""  value=""></input><br/>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md padding-small">
-                                <textarea placeholder="Your Message" name="" rows="8" class="margin-bottom-small"></textarea>
+                                <textarea placeholder="Your Message" name="" rows="8" class="margin-bottom-small"></textarea><br/>
                                 <input type="submit" value="Submit"></input>
                             </div>
                         </div>
