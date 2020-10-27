@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 export default function Products() {
   return (
   <>
-   <div className="black"> 
+   <div className="grey"> 
    <div className='hero-containers'>
     </div>	
    
