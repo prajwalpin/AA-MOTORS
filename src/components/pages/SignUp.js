@@ -5,81 +5,46 @@ import HeroSection from '../HeroSection';
 import Footer from '../Footer';
 
 
-/*export default function SignUp() {
+export default function SignUp() {
   return (
     <>
      <HeroSection />
-      <Cards />
+   <section class="contact" id="contact">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md center-xs">
+                            <h2 class="section-title">Contact</h2>
+                        </div>
+                    </div>
+                    <div class="row margin-bottom-small center-xs">
+                        <div class="col-md">Call Us<br/>+49 561 0000 0000</div>
+                        <div class="col-md">Address<br/>Streetname 12</div>
+                        <div class="col-md">Email<br/>kontakt@lautenschlager.de</div>
+                    </div>
+                    <form action="">
+                        <div class="row margin-bottom-small center-xs">
+
+                            <div class="col-md padding-small">
+                                <div class="row">
+                                    <div class="col-md">
+                                        <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small">
+                                        <input placeholder="Enter Your Email" type="email" name=""  value="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md padding-small">
+                                <textarea placeholder="Your Message" name="" rows="8" class="margin-bottom-small"></textarea>
+                                <input type="submit" value="Submit">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </section>
       <Footer />
     
     </>
     );
 }
-*/
 
-import axios from 'axios';
 
-class SignUp extends React.Component {
-  
-  constructor(props) {
-    super(props);
-    this.state = {
-      name: '',
-      email: '',
-      message: ''
-    }
-  }
 
-  handleSubmit(e){
-    e.preventDefault();
-    axios({
-      method: "POST", 
-      url:"http://localhost:3002/send", 
-      data:  this.state
-    }).then((response)=>{
-      if (response.data.status === 'success') {
-        alert("Message Sent."); 
-        this.resetForm()
-      } else if (response.data.status === 'fail') {
-        alert("Message failed to send.")
-      }
-    })
-  }
-
- 
-  render() {
-    return(
-      <div className="App">
-        <form id="contact-form" onSubmit={this.handleSubmit.bind(this)} method="POST">
-          <div className="form-group">
-              <label htmlFor="name">Name</label>
-              <input type="text" className="form-control" id="name" value={this.state.name} onChange={this.onNameChange.bind(this)} />
-          </div>
-          <div className="form-group">
-              <label htmlFor="exampleInputEmail1">Email address</label>
-              <input type="email" className="form-control" id="email" aria-describedby="emailHelp" value={this.state.email} onChange={this.onEmailChange.bind(this)} />
-          </div>
-          <div className="form-group">
-              <label htmlFor="message">Message</label>
-              <textarea className="form-control" rows="5" id="message" value={this.state.message} onChange={this.onMessageChange.bind(this)} />
-          </div>
-          <button type="submit" className="btn btn-primary">Submit</button>
-        </form>
-      </div>
-    );
-  }
-
-  onNameChange(event) {
-	  this.setState({name: event.target.value})
-  }
-
-  onEmailChange(event) {
-	  this.setState({email: event.target.value})
-  }
-
-  onMessageChange(event) {
-	  this.setState({message: event.target.value})
-  }
-}
-
-export default SignUp;
