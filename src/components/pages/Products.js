@@ -8,10 +8,10 @@ import { Link } from 'react-router-dom';
 export default function Products() {
   return (
   <>
-    
+   <div className="black"> 
    <div className='hero-containers'>
     </div>	
-   <div className="black">
+   
      <div id="services" className="cards-2">
         <div className="container">
             <div className="row">
