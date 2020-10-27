@@ -8,9 +8,9 @@ import { Link } from 'react-router-dom';
 export default function Products() {
   return (
   <>
-    <div className='hero-containers'>
-    </div>	
-   /* <div id="services" className="cards-2">
+    
+   /*
+   <div id="services" className="cards-2">
         <div className="container">
             <div className="row">
                 <div className="col-lg-12">
@@ -105,6 +105,8 @@ export default function Products() {
     </div> 
     
     */
+    <div className='hero-containers'>
+    </div>	
     
     <main class="container">
  
