@@ -39,7 +39,8 @@ export default function SignUp() {
                                   
                             <div className="cres">
                                 <textarea placeholder="Your Message" name="" rows="8" className="contactmessage"></textarea><br/>
-                                <input type="submit" value="Submit"></input>
+                                <input type="submit" value="Submit"></input><br/>
+    
                             </div>
                         </div>
                     </form>
