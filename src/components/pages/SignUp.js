@@ -37,7 +37,7 @@ export default function SignUp() {
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md padding-small">
+                            <div class="contactmessage">
                                 <textarea placeholder="Your Message" name="" rows="8" class="margin-bottom-small"></textarea><br/>
                                 <input type="submit" value="Submit"></input>
                             </div>
