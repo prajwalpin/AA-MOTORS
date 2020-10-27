@@ -143,7 +143,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
             </div> 
         </div> 
       </div> 
-   
+          <div className='black'>  
 	  <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
@@ -253,6 +253,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
           </div>
         </div>
       </section>
+    </div>
     </div>
 </>
 	  
