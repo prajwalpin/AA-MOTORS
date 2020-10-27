@@ -35,7 +35,7 @@ export default function Products() {
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body"><h3>Lithium-Ion/3 Years* Warranty</h3>/div>
+                                    <div className="media-body"><h3>Lithium-Ion/3 Years* Warranty</h3><div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
