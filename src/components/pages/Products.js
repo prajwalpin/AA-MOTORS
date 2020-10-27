@@ -23,7 +23,7 @@ export default function Products() {
             <div className="row">
                 <div className="col-lg-12">
                     
-                    
+                    <div className="black">
                     <div className="card">
                         <div className="card-image">
                             <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
@@ -51,7 +51,7 @@ export default function Products() {
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
                         </div>
                         </div>
-
+                        </div>
                     
                     <div className="card">
                         <div className="card-image">
