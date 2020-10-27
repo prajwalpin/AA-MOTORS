@@ -109,9 +109,9 @@ export default function Products() {
  
   
   <div className="left-column">
-    <img data-image="black" src="/images/KRITI-1.jpg" alt="">
-    <img data-image="blue" src="/images/img-2.jpg" alt="">
-    <img data-image="red" class="active" src="/images/img-3.jpg" alt="">
+    <img data-image="black" src="/images/KRITI-1.jpg" alt=""></img>
+    <img data-image="blue" src="/images/img-2.jpg" alt=""></img>
+    <img data-image="red" class="active" src="/images/img-3.jpg" alt=""></img>
   </div>
  
  
@@ -134,15 +134,15 @@ export default function Products() {
  
         <div className="color-choose">
           <div>
-            <input data-image="red" type="radio" id="red" name="color" value="red" checked>
+            <input data-image="red" type="radio" id="red" name="color" value="red" checked></input>
             <label for="red"><span></span></label>
           </div>
           <div>
-            <input data-image="blue" type="radio" id="blue" name="color" value="blue">
+            <input data-image="blue" type="radio" id="blue" name="color" value="blue"></input>
             <label for="blue"><span></span></label>
           </div>
           <div>
-            <input data-image="black" type="radio" id="black" name="color" value="black">
+            <input data-image="black" type="radio" id="black" name="color" value="black"></input>
             <label for="black"><span></span></label>
           </div>
         </div>
@@ -187,7 +187,7 @@ export default function Products() {
               name='email'
               type='email'
               placeholder='Your Email'
-            />
+            /></input>
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>
         </div>
