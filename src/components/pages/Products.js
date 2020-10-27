@@ -187,7 +187,7 @@ export default function Products() {
               name='email'
               type='email'
               placeholder='Your Email'
-            /></input>
+            ></input>
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>
         </div>
