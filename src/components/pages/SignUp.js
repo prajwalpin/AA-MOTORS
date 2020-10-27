@@ -19,8 +19,8 @@ export default function SignUp() {
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">Call Us At<br/>+91 9845678912</div><br/>
                         <div class="col-md">Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, <br></br>
-                                                         Divanarapalya, Yeswanthpur, Bengaluru, <br></br>
-                                                          Karnataka 560022</div><br/>
+                                                         Triveni Road, Yeswanthpur, Bengaluru, <br></br>
+                                                          Karnataka 560054</div><br/>
                         <div class="col-md">Email<br/>aamotors8@gmail.com</div><br/>
                     </div>
                     <form action="">
