@@ -231,7 +231,7 @@ export default function Products() {
       </section>
     </div>
     </div>
-    
+    </div>
 </>
     );
 }
