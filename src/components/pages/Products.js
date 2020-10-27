@@ -38,6 +38,7 @@ export default function Products() {
                                     <div className="media-body">
                                          <h3> Lithium-Ion /3 Years* Warranty </h3><br/><div>
                                 </li>
+                                
                                 <li className="media">
                                     <i className="fas fa-square"></i>
                                     <div className="media-body">
@@ -53,7 +54,7 @@ export default function Products() {
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
                         </div>
                         </div>
-                        
+                        </div>
                     
                     <div className="card">
                         <div className="card-image">
