@@ -59,19 +59,26 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/img-2.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/falcon.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">Icon</h3>
-                            <p>Perfect balance of speed and agility to drive past the city.</p>
+                            <h3 className="card-title">FALCON</h3>
+                            <p>70km per charge in eco mode</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Power pack performance</div>
+                                    <div className="media-body">Lithium-Ion / 3 Year*Warranty</div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Good ground clearance</div>
+                                    <div className="media-body">
+                                    <h3>Good ground clearance</h3><br/>
+                                    <h3>3-4hr Charging</h3><br/>
+                                    <h3>Self Road Assistance Button</h3><br/>
+                                    <h3>Anti-Theft Remote Lock</h3><br/>
+                                    <h3>Detachable Battery></h3><br/>
+                                    <h3>Push Button</h3><br/>
+                                     </div>
                                 </li>
                             </ul>
                             <p className="price">Starting at <span>Rs.50000/-</span></p>
