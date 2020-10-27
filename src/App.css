@@ -239,16 +239,16 @@
 }
 
 .contactmessage {
-	width: 250px;
-	border-radius: 10px;
+	width: 375px;
+	border-radius: 5px;
 }
 .contactplace {
-	width: 250px;
-	border-radius: 10px;
+	width: 375px;
+	border-radius: 5px;
 }
 .contactemail {
-	width: 250px;
-	border-radius: 10px;
+	width: 375px;
+	border-radius: 5px;
 }
 
 .card-image {
