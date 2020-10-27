@@ -50,11 +50,7 @@ export default function Products() {
                             </ul>
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
                         </div>
-                        <div className="button-container">
-                            <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> 
-                    </div>
-                    
+                        
 
                     
                     <div className="card">
@@ -83,11 +79,7 @@ export default function Products() {
                             </ul>
                             <p className="price">Starting at <span>Rs.50000/-</span></p>
                         </div>
-                        <div className="button-container">
-                            <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> 
-                    </div>
-                    
+                        
 
                     
                     <div className="card">
@@ -115,11 +107,11 @@ export default function Products() {
                             </ul>
                             <p className="price">Starting at <span>Rs.60000/-</span></p>
                         </div>
-                        <div className="button-container">
+                       /* <div className="button-container">
                             <a className="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
                         </div> 
                     </div>
-                   
+                   */
 
                 </div> 
             </div> 
