@@ -103,6 +103,7 @@ export default function Products() {
             </div> 
         </div> 
     </div> 
+  <div className='black'>  
   <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
@@ -213,7 +214,7 @@ export default function Products() {
         </div>
       </section>
     </div>
- 
+    </div>
 </>
     );
 }
