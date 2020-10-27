@@ -27,8 +27,8 @@ export default function SignUp() {
                             <div class="col-md padding-small">
                                 <div class="row">
                                     <div class="col-md">
-                                        <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small">
-                                        <input placeholder="Enter Your Email" type="email" name=""  value="">
+                                        <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small"></input>
+                                        <input placeholder="Enter Your Email" type="email" name=""  value=""></input>
                                     </div>
                                 </div>
                             </div>
