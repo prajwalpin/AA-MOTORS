@@ -28,6 +28,7 @@ export default function Products() {
                         <div className="card-image">
                             <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
                         </div>
+                        </div>
                         <div className="card-body">
                             <h3 className="card-title">KRITI</h3>
                             <p>60km per charge in eco mode</p>
@@ -51,7 +52,7 @@ export default function Products() {
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
                         </div>
                         </div>
-                        </div>
+                        
                     
                     <div className="card">
                         <div className="card-image">
