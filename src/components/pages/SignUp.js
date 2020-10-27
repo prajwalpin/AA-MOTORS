@@ -10,7 +10,7 @@ export default function SignUp() {
     <>
      <HeroSection />
    <section class="contact" id="contact">
-                <div class="container">
+                <div class="contactus">
                     <div class="row">
                         <div class="col-md center-xs">
                             <h2 class="section-title">Contact</h2>
