@@ -46,10 +46,7 @@ class SignUp extends React.Component {
     })
   }
 
-  resetForm(){
-    this.setState({name: ‘’, email: ‘’, message: ‘’})
-  }
-  
+ 
   render() {
     return(
       <div className="App">
