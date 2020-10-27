@@ -13,18 +13,18 @@ export default function SignUp() {
                 <div class="contactus">
                     <div class="row">
                         <div class="col-md center-xs">
-                            <h2 class="section-title">Contact</h2>
+                            <h2 class="section-title">Contact Us</h2>
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">
-                        <div class="col-md">Call Us<br/>+49 561 0000 0000</div>
-                        <div class="col-md">Address<br/>Streetname 12</div>
-                        <div class="col-md">Email<br/>kontakt@lautenschlager.de</div>
+                        <div class="col-md">Call Us<br/>+91 9845678912</div>
+                        <div class="col-md">Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, Divanarapalya, Yeswanthpur, Bengaluru, Karnataka 560022</div>
+                        <div class="col-md">Email<br/>aamotors8@gmail.com</div>
                     </div>
                     <form action="">
                         <div class="row margin-bottom-small center-xs">
 
-                            <div class="col-md padding-small">
+                            <div class="contactname">
                                 <div class="row">
                                     <div class="col-md">
                                         <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small"></input>
