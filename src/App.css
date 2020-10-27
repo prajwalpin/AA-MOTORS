@@ -237,3 +237,7 @@
         margin-right: auto;
 }
 
+.contactmessage {
+	width: 500px;
+	border-radius: 50px;
+}
