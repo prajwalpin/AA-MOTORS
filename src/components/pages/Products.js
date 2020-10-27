@@ -9,7 +9,9 @@ export default function Products() {
   return (
   <>
     
-   /*
+   <div className='hero-containers'>
+    </div>	
+   
    <div id="services" className="cards-2">
         <div className="container">
             <div className="row">
@@ -28,15 +30,15 @@ export default function Products() {
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">KRITI</h3>
-                            <p>Perfect for youngsters, this bike will elevate their mood</p>
+                            <p>60km per charge in eco mode</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Falcon</div>
+                                    <div className="media-body">Lithium-Ion/3 Years* Warranty</div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Technical Specifications</div>
+                                    <div className="media-body">3-4 hr Charging</div>
                                 </li>
                             </ul>
                             <p className="price">Starting at <span>Rs.40000/-</span></p>
@@ -104,74 +106,9 @@ export default function Products() {
         </div> 
     </div> 
     
-    */
-    <div className='hero-containers'>
-    </div>	
     
-    <main class="container">
- 
-  
-  <div className="left-column">
-    <img data-image="black" src="/images/KRITI-1.jpg" alt=""></img>
-    <img data-image="blue" src="/images/img-2.jpg" alt=""></img>
-    <img data-image="red" class="active" src="/images/img-3.jpg" alt=""></img>
-  </div>
- 
- 
-  
-  <div className="right-column">
- 
     
-    <div class="product-description">
-      <span>Headphones</span>
-      <h1>Beats EP</h1>
-      <p>The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance</p>
-    </div>
- 
-    
-    <div className="product-configuration">
- 
-     
-      <div className="product-color">
-        <span>Color</span>
- 
-        <div className="color-choose">
-          <div>
-            <input data-image="red" type="radio" id="red" name="color" value="red" checked></input>
-            <label for="red"><span></span></label>
-          </div>
-          <div>
-            <input data-image="blue" type="radio" id="blue" name="color" value="blue"></input>
-            <label for="blue"><span></span></label>
-          </div>
-          <div>
-            <input data-image="black" type="radio" id="black" name="color" value="black"></input>
-            <label for="black"><span></span></label>
-          </div>
-        </div>
- 
-      </div>
- 
-      <div className="cable-config">
-        <span>Cable configuration</span>
- 
-        <div className="cable-choose">
-          <button>Straight</button>
-          <button>Coiled</button>
-          <button>Long-coiled</button>
-        </div>
- 
-        <a href="#">How to configurate your headphones</a>
-      </div>
-    </div>
- 
-    
-    <div class="product-price">
-      <span>Rs.40,000/-</span>
-      <a href="#" class="cart-btn">Add to cart</a>
-    </div>
-  </div>
-</main>
+   
     
     
   <div className='black'>  
