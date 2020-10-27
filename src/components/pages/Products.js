@@ -92,19 +92,25 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/img-3.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/ICON.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">Falcon</h3>
-                            <p>Balance of style and agility combined with power pack performance</p>
+                            <h3 className="card-title">ICON</h3>
+                            <p>70km per charge in eco mode</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Maintaining the leader status</div>
+                                    <div className="media-body">Lithium-Ion/3 Years* Warranty</div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Stlye quotient</div>
+                                    <div className="media-body">
+                                    <h3>3-4hr Charging</h3><br/>
+                                    <h3>Self Road Assistance Button</h3><br/>
+                                    <h3>Anti-Theft Remote Lock</h3><br/>
+                                    <h3>150kg Loading Capacity</h3><br/>
+                                    <h3>Detachable Battery></h3><br/>
+                                    <h3>Push Button</h3><br/></div>
                                 </li>
                             </ul>
                             <p className="price">Starting at <span>Rs.60000/-</span></p>
