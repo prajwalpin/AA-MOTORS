@@ -33,12 +33,12 @@ export default function SignUp() {
                                         <h4>Please out this form and we will get in touch with you</h4><br/>
                                         <input placeholder="Enter Your Name" type="text" name="" value="" className="contactplace"></input><br/>
                                         <input placeholder="Enter Your Email" type="email" name=""  value="" className="contactemail></input><br/>
-                                        
+                                          </div>
+                                       </div>
                                     </div>
-                                </div>
-                            </div>
+                                  
                             <div className="contactpage">
-                                <textarea placeholder="Your Message" name="" rows="8" className="contactmessage"></textarea><br></br>
+                                <textarea placeholder="Your Message" name="" rows="8" className="contactmessage"></textarea><br/>
                                 <input type="submit" value="Submit"></input>
                             </div>
                         </div>
