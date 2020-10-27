@@ -16,7 +16,7 @@ import Footer from '../Footer';
     );
 }
 */
-import React from 'react';
+
 import axios from 'axios';
 
 class SignUp extends React.Component {
