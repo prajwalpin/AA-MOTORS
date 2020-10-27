@@ -236,4 +236,8 @@
         margin-left: auto;
         margin-right: auto;
 }
-
+.contactmessage {
+	width: 150px;
+	height: 50px;
+	border-radius: 25px;
+}
