@@ -267,3 +267,8 @@
 .cards__item__img:hover {
     transform: scale(1.1);
   }
+
+.grey {
+	background-color: black;
+	color: white;
+}
