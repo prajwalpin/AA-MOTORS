@@ -61,12 +61,12 @@ export default function Products() {
                             <img className="img-fluid" src="/images/falcon.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">FALCON</h3>
-                            <p>70km per charge in eco mode</p>
+                            <h2 className="card-title">FALCON</h2>
+                            <h3>70km per charge in eco mode</h3>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Lithium-Ion / 3 Year*Warranty</div>
+                                    <div className="media-body"><h3>Lithium-Ion / 3 Year*Warranty</h3></div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
@@ -90,12 +90,12 @@ export default function Products() {
                             <img className="img-fluid" src="/images/ICON.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h3 className="card-title">ICON</h3>
+                            <h2 className="card-title">ICON</h2>
                             <p>70km per charge in eco mode</p>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
-                                    <div className="media-body">Lithium-Ion/3 Years* Warranty</div>
+                                    <div className="media-body"><h3>Lithium-Ion/3 Years* Warranty</h3></div>
                                 </li>
                                 <li className="media">
                                     <i className="fas fa-square"></i>
