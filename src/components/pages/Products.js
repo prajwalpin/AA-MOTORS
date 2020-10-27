@@ -11,8 +11,8 @@ export default function Products() {
     
    <div className='hero-containers'>
     </div>	
-   
-   <div id="services" className="cards-2">
+   <div className="black">
+     <div id="services" className="cards-2">
         <div className="container">
             <div className="row">
                 <div className="col-lg-12">
@@ -105,7 +105,7 @@ export default function Products() {
             </div> 
         </div> 
     </div> 
-    
+    </div>
     
     
    
