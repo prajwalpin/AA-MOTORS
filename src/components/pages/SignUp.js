@@ -29,7 +29,7 @@ export default function SignUp() {
                             <div class="contactname">
                                 <div class="row">
                                     <div class="col-md">
-                                        <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small"></input>
+                                        <input placeholder="Enter Your Name" type="text" name="" value="" class="margin-bottom-small"></input><br/>
                                         <input placeholder="Enter Your Email" type="email" name=""  value=""></input><br/>
                                     </div>
                                 </div>
