@@ -28,7 +28,7 @@ function Cards() {
             <CardItem
               src='images/falcon.jpg'
               text='Benling Falcon'
-              label='Mystery'
+              label='Stylish'
               path='/products'
             />
            
