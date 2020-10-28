@@ -26,7 +26,11 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
+                            <picture>
+                             <source srcset="/images/img-1.jpg" media="(max-width: 400px)">
+                              <source srcset="images/KRITI-1.jpg">
                             <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
+                             </picture>
                         </div>
                      
                         <div className="card-body">
