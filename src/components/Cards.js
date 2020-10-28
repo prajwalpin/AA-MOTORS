@@ -17,7 +17,7 @@ function Cards() {
             />
             
             <CardItem
-              src='images/img-10.jpg'
+              src='images/aura.jpg'
               text='Benling Aura'
               label='Mystery'
               path='/products'
