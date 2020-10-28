@@ -111,6 +111,37 @@ export default function Products() {
                             <p className="price">Starting at <span>Rs.60000/-</span></p>
                         </div>
                        
+                       <div className="card">
+                        <div className="card-image">
+                            <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
+                        </div>
+                     
+                        <div className="card-body">
+                            <h2 className="card-title">AURA</h2><br/>
+                            <h3>120km per charge in eco mode</h3><br/>
+                            <ul className="list-unstyled li-space-lg">
+                                <li className="media">
+                                    <i className="fas fa-square"></i>
+                                    <div className="media-body">
+                                         <h3> Lithium-Ion /3 Years* Warranty </h3><br/></div>
+                                </li>
+                                
+                                <li className="media">
+                                    <i className="fas fa-square"></i>
+                                    <div className="media-body">
+                                      <h3>3-4 hr Charging</h3><br/>
+                                      <h3>Speed 60 km/hr</h3><br/>
+                                      <h3>Self Road Assistance Button</h3><br/>
+                                      <h3>Anti Theft Remote Lock</h3><br/>
+                                      <h3>250kg Loading Capacity</h3><br/>
+                                      <h3>Detachable Battery</h3><br/>
+                                      <h3>Push Button</h3><br/>
+                                      </div>
+                                </li>
+                            </ul>
+                            <p className="price">Starting at <span>Rs.40000/-</span></p>
+                        </div>
+                        </div>
 
                 </div> 
             </div> 
