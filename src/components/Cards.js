@@ -10,7 +10,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
+              src='images/falcon.jpg'
               text='Benling Falcon'
               label='Adventure'
               path='/services'
@@ -26,8 +26,8 @@ function Cards() {
           <ul className='cards__items'>
             
             <CardItem
-              src='images/img-10.jpg'
-              text='Benling Aura'
+              src='images/KRITI-1.jpg'
+              text='Benling Kriti'
               label='Mystery'
               path='/services'
             />
@@ -38,8 +38,8 @@ function Cards() {
           <ul className='cards__items'>
             
             <CardItem
-              src='images/img-2.jpg'
-              text='Benling Kriti'
+              src='images/ICON.jpg'
+              text='Benling ICON'
               label='Luxury'
               path='/services'
             />
