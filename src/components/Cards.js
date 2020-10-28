@@ -10,8 +10,8 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/falcon.jpg'
-              text='Benling Falcon'
+              src='images/KRITI-1.jpg'
+              text='Benling Kriti'
               label='Adventure'
               path='/products'
             />
@@ -26,8 +26,8 @@ function Cards() {
           <ul className='cards__items'>
             
             <CardItem
-              src='images/KRITI-1.jpg'
-              text='Benling Kriti'
+              src='images/falcon.jpg'
+              text='Benling Falcon'
               label='Mystery'
               path='/products'
             />
