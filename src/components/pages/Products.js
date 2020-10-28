@@ -60,7 +60,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/falcon.jpg" alt="alternative"></img>
+                            <img className="priti" src="/images/falcon.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h2 className="card-title">FALCON</h2>
@@ -89,7 +89,7 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/ICON.jpg" alt="alternative"></img>
+                            <img className="priti" src="/images/ICON.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
                             <h2 className="card-title">ICON</h2><br/>
@@ -115,7 +115,7 @@ export default function Products() {
                        
                        <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/aura.jpg" alt="alternative"></img>
+                            <img className="priti" src="/images/aura.jpg" alt="alternative"></img>
                         </div>
                      
                         <div className="card-body">
