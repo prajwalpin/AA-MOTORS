@@ -39,7 +39,7 @@ function Cards() {
             
             <CardItem
               src='images/ICON.jpg'
-              text='Benling ICON'
+              text='Benling Icon'
               label='Luxury'
               path='/services'
             />
