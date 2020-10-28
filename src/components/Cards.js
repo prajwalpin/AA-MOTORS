@@ -13,14 +13,14 @@ function Cards() {
               src='images/falcon.jpg'
               text='Benling Falcon'
               label='Adventure'
-              path='/services'
+              path='/products'
             />
             
             <CardItem
               src='images/img-10.jpg'
               text='Benling Aura'
               label='Mystery'
-              path='/services'
+              path='/products'
             />
           </ul>
           <ul className='cards__items'>
@@ -29,7 +29,7 @@ function Cards() {
               src='images/KRITI-1.jpg'
               text='Benling Kriti'
               label='Mystery'
-              path='/services'
+              path='/products'
             />
            
             
@@ -41,7 +41,7 @@ function Cards() {
               src='images/ICON.jpg'
               text='Benling Icon'
               label='Luxury'
-              path='/services'
+              path='/products'
             />
            
            
