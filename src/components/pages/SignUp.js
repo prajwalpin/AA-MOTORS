@@ -23,7 +23,11 @@ export default function SignUp() {
                                                           Karnataka 560054</div><br/>
                         <div class="col-md">Email<br/>aamotors8@gmail.com</div><br/>
                     </div>
-                    <form action="">
+                    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                                       <input type="hidden" name="form-name" value="contact"></input>
+                                       <p class="hidden">
+    <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
+  </p>
                         <div class="row margin-bottom-small center-xs">
 
                             <div class="contactname">
@@ -31,11 +35,7 @@ export default function SignUp() {
                                     <div class="col-md">
                                         <h3>Get in Touch</h3><br/>
                                         <h4>Please fill out this form and we will get in touch with you</h4><br/>
-                                      <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                                       <input type="hidden" name="form-name" value="contact"></input>
-                                       <p class="hidden">
-    <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
-  </p>
+                                      
                                         <input placeholder="Enter Your Name" type="text" name="" value="" className="contactplace"></input><br/>
                                         <input placeholder="Enter Your Email" type="email" name=""  value="" className="contactemail"></input><br/>
                                           </div>
