@@ -113,7 +113,7 @@ export default function Products() {
                        
                        <div className="card">
                         <div className="card-image">
-                            <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
+                            <img className="img-fluid" src="/images/aura.jpg" alt="alternative"></img>
                         </div>
                      
                         <div className="card-body">
@@ -139,7 +139,7 @@ export default function Products() {
                                       </div>
                                 </li>
                             </ul>
-                            <p className="price">Starting at <span>Rs.40000/-</span></p>
+                            <p className="price">Contact us Immediately for<span>BEST DEALS</span></p>
                         </div>
                         </div>
 
