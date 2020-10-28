@@ -32,7 +32,7 @@ export default function SignUp() {
                                         <h3>Get in Touch</h3><br/>
                                         <h4>Please fill out this form and we will get in touch with you</h4><br/>
                                       <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                                       <input type="hidden" name="form-name" value="contact">
+                                       <input type="hidden" name="form-name" value="contact"></input>
                                        <p class="hidden">
     <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
   </p>
