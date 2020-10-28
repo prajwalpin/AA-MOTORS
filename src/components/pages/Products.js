@@ -26,9 +26,9 @@ export default function Products() {
                     
                     <div className="card">
                         <div className="card-image">
-                            <div className="kriti">
+                            
                             <img className="img-fluid" src="/images/KRITI-1.jpg" alt="alternative"></img>
-                             </div>
+                             
                         </div>
                      
                         <div className="card-body">
