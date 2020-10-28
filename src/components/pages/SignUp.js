@@ -31,6 +31,11 @@ export default function SignUp() {
                                     <div class="col-md">
                                         <h3>Get in Touch</h3><br/>
                                         <h4>Please fill out this form and we will get in touch with you</h4><br/>
+                                      <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                                       <input type="hidden" name="form-name" value="contact">
+                                       <p class="hidden">
+    <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
+  </p>
                                         <input placeholder="Enter Your Name" type="text" name="" value="" className="contactplace"></input><br/>
                                         <input placeholder="Enter Your Email" type="email" name=""  value="" className="contactemail"></input><br/>
                                           </div>
@@ -40,7 +45,7 @@ export default function SignUp() {
                             <div className="cors">
                                 <textarea placeholder="Your Message" name="" rows="8" className="contactmessage"></textarea><br/>
                                 <input type="submit" value="Submit"></input><br/>
-    
+                               </form>
                             </div>
                         </div>
                     </form>
