@@ -51,7 +51,7 @@ Developing Electric Vehicles will assist in energy conservation and security in 
   
 	  
 	<>  
-<div className='hero-containers'>
+<div className='hero-containered'>
      
  </div>	  
     <div id="intro" className="basic-1">
