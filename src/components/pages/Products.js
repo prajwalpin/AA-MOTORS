@@ -90,8 +90,8 @@ export default function Products() {
                             <img className="img-fluid" src="/images/ICON.jpg" alt="alternative"></img>
                         </div>
                         <div className="card-body">
-                            <h2 className="card-title">ICON</h2>
-                            <p>70km per charge in eco mode</p>
+                            <h2 className="card-title">ICON</h2><br/>
+                            <h3>70km per charge in eco mode</h3>
                             <ul className="list-unstyled li-space-lg">
                                 <li className="media">
                                     <i className="fas fa-square"></i>
