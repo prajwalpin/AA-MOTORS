@@ -37,6 +37,35 @@
     <title>A A MOTORS APP</title>
   </head>
   <body>
+    
+    <form name="contact" netlify-honeypot="bot-field" data-netlify="true">
+                                       <input type="hidden" name="form-name" value="contact"></input>
+                                       <p class="hidden">
+    <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
+  </p>
+                        <div class="row margin-bottom-small center-xs">
+
+                            <div class="contactname">
+                                <div class="row">
+                                    <div class="col-md">
+                                        <h3>Get in Touch</h3><br/>
+                                        <h4>Please fill out this form and we will get in touch with you</h4><br/>
+                                      
+                                        <input type="text" name="name"></input><br/>
+                                        <input type="email" name="email"></input><br/>
+                                          </div>
+                                       </div>
+                                    </div>
+                                  
+                            <div className="cors">
+                                <textarea placeholder="Your Message" name=""></textarea><br/>
+                                <input type="submit" value="Submit"></input><br/>
+                               
+                            </div>
+                        </div>
+                    </form>
+    
+    
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
