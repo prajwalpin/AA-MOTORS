@@ -28,7 +28,7 @@ export default function SignUp() {
                                                           Karnataka 560054</div><br/>
                         <div class="col-md">Email<br/>aamotors8@gmail.com</div><br/>
                     </div>
-                    <form style={formStyles} name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/contact">
+                    <form style={formStyles} name="contact" method="POST" action="/contact">
                                        <input type="hidden" name="form-name" value="contact"></input>
                                        <p class="hidden">
     <label> Don’t fill this out if you're human: <input name="bot-field"></input></label>
