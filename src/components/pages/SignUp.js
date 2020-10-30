@@ -38,7 +38,7 @@ export default function SignUp() {
                             <div class="contactname">
                                 <div class="row">
                                     <div class="col-md">
-                                        <h3>Get in Touch</h3><br/>
+                                        <h3>Get in Touch For Best Deals</h3><br/>
                                         <h4>Please fill out this form and we will get in touch with you</h4><br/>
                                       
                                         <input type="text" placeholder="Enter Your Name" name="name" className="contactplace" required></input><br/>
