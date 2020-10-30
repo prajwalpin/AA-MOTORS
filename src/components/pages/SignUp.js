@@ -9,7 +9,8 @@ export default function SignUp() {
   const formStyles = {
     display: 'flex',
     flexDirection: 'column',
-    margin: '40px'
+    margin: '40px',
+    padding: '100px'
   }
   return (
     <>
