@@ -42,7 +42,7 @@ export default function SignUp() {
                                         <h4>Please fill out this form and we will get in touch with you</h4><br/>
                                       
                                         <input type="text" placeholder="Enter Your Name" name="name" className="contactplace" required></input><br/>
-                                        <br/>
+                                        
                                         <input type="email" placeholder="Enter Your Email" name="email" className="contactemail"></input><br/>
                                         <input type="number" placeholder="Enter Your Phone Number" name="phone" className="contactemail" required></input><br/>
                                           </div>
