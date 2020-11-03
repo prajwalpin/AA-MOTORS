@@ -18,11 +18,12 @@ export default function SignUp() {
                 <div class="contactus">
                     <div class="row">
                         <div class="col-md center-xs">
-                            <h2 class="section-title">Contact Us</h2>
+                            <h2 class="section-title">Contact Us</h2><br/>
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">
-                        <div class="col-md"><i class="fa fa-phone" aria-hidden="true"></i> Phone<br/>+91 9845678912</div><br/>
+                        <div class="col-md"><i class="fa fa-phone" aria-hidden="true"></i> Phone<br/>+91 8618473871<br/>
+                                                                                                     +91 8088520798</div><br/>
                         <div class="col-md"><i class="fa fa-map-marker" aria-hidden="true"></i> Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, <br></br>
                                                          Triveni Road, Yeswanthpur, Bengaluru, <br></br>
                                                           Karnataka 560054</div><br/>
