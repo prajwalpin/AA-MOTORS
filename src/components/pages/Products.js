@@ -53,7 +53,7 @@ export default function Products() {
                                       </div>
                                 </li>
                             </ul>
-                            <p className="price">Contact us immediately for <span>BEST DEALS</span></p>
+                            <p className="price"><Link to='/sign-up'>Contact us immediately for <span>BEST DEALS</span></p></Link>
                         </div>
                         </div>
                         
