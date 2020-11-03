@@ -29,27 +29,27 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/products'>How it works</Link>
+            <Link to='/services'>Testimonials</Link>
+            <Link to='/sign-up'>Careers</Link>
+            <Link to='/sign-up'>Investors</Link>
+            <Link to='/sign-up'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Locations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/sign-up'>Contact</Link>
+            <Link to='/sign-up'>Support</Link>
+            <Link to='/sign-up'>Locations</Link>
+            <Link to='/sign-up'>Sponsorships</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <Link to='/sign-up'>Submit Video</Link>
+            <Link to='/sign-up'>Ambassadors</Link>
+            <Link to='/sign-up'>Agency</Link>
+            <Link to='/sign-up'>Influencer</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
