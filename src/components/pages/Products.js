@@ -1,4 +1,4 @@
-import React from 'react';
+ React from 'react';
 import '../../App.css';
 import '../HeroSection.css';
 import '../Footer.css';
@@ -82,7 +82,7 @@ export default function Products() {
                                      </div>
                                 </li>
                             </ul>
-                            <p className="price">Contact us immediately for <span>BEST DEALS</span></p>
+                            <p className="price"><Link to='/sign-up'>Contact us immediately for <span>BEST DEALS</span></Link></p>
                         </div>
                         </div>
 
@@ -110,7 +110,7 @@ export default function Products() {
                                     <h3>Push Button</h3><br/></div>
                                 </li>
                             </ul>
-                            <p className="price">Contact us immediately for <span>BEST DEALS</span></p>
+                            <p className="price"><Link to='/sign-up'>Contact us immediately for <span>BEST DEALS</span></Link></p>
                         </div>
                        
                        <div className="card">
@@ -141,7 +141,7 @@ export default function Products() {
                                       </div>
                                 </li>
                             </ul>
-                            <p className="price">Contact us immediately for <span>BEST DEALS</span></p>
+                            <p className="price"><Link to='/sign-up'>Contact us immediately for <span>BEST DEALS</span></Link></p>
                         </div>
                         </div>
 
