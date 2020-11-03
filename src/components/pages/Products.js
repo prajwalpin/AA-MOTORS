@@ -1,4 +1,4 @@
- React from 'react';
+import React from 'react';
 import '../../App.css';
 import '../HeroSection.css';
 import '../Footer.css';
