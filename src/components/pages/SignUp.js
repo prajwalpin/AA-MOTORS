@@ -22,11 +22,11 @@ export default function SignUp() {
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">
-                        <div class="col-md">Call Us At<br/>+91 9845678912</div><br/>
-                        <div class="col-md">Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, <br></br>
+                        <div class="col-md"><i class="fa fa-phone" aria-hidden="true"></i> Phone<br/>+91 9845678912</div><br/>
+                        <div class="col-md"><i class="fa fa-map-marker" aria-hidden="true"></i> Address<br/>No. 778, 8th Cross Rd, Gokula 1st Stage, <br></br>
                                                          Triveni Road, Yeswanthpur, Bengaluru, <br></br>
                                                           Karnataka 560054</div><br/>
-                        <div class="col-md">Email<br/>aamotors8@gmail.com</div><br/>
+                        <div class="col-md"><i class="fa fa-envelope-0" aria-hidden="true"></i> Email<br/>aamotors8@gmail.com</div><br/>
                     </div>
                     <form style={formStyles} name="contact" method="POST" action="/contact">
                                        <input type="hidden" name="form-name" value="contact"></input>
