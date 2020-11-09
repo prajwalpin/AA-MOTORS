@@ -52,7 +52,7 @@ export default function SignUp() {
                                     </div>
                                   
                             <div className="cors">
-                                <textarea placeholder="Your Message" rows="8" className="contactmessage"></textarea><br/>
+                                <textarea placeholder="Your Message" name="message" rows="8" className="contactmessage"></textarea><br/>
                                 <input type="submit" value="Submit"></input><br/>
                                
                             </div>
