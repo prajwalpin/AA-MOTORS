@@ -302,3 +302,7 @@
 	visibility: hidden;
 	height: 0;
 }
+.contactnumber {
+	width: 350px;
+	border-radius: 5px;
+}
