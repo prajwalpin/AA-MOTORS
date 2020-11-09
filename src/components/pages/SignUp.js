@@ -46,7 +46,7 @@ export default function SignUp() {
                                         <input type="text" placeholder="Enter Your Name" name="name" className="contactplace" required></input><br/>
                                         
                                         <input type="email" placeholder="Enter Your Email" name="email" className="contactemail"></input><br/>
-                                        <input type="number" placeholder="Enter Your Phone Number" name="phone" className="contactnumber" required></input><br/>
+                                        <input type="number" placeholder="Enter Your Phone Number" name="phone" className="contactnumber"></input><br/>
                                           </div>
                                        </div>
                                     </div>
