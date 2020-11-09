@@ -46,13 +46,13 @@ export default function SignUp() {
                                         <input type="text" placeholder="Enter Your Name" name="name" className="contactplace" required></input><br/>
                                         
                                         <input type="email" placeholder="Enter Your Email" name="email" className="contactemail"></input><br/>
-                                        <input type="number" placeholder="Enter Your Phone Number" name="phone" className="contactnumber"></input><br/>
+                                        <input type="text" placeholder="Enter Your Phone Number" name="phone" className="contactnumber"></input><br/>
                                           </div>
                                        </div>
                                     </div>
                                   
                             <div className="cors">
-                                <textarea placeholder="Your Message" name="message" rows="8" className="contactmessage"></textarea><br/>
+                                <textarea placeholder="Your Message" rows="8" className="contactmessage"></textarea><br/>
                                 <input type="submit" value="Submit"></input><br/>
                                
                             </div>
