@@ -17,6 +17,11 @@ function App() {
           <Route path='/services' component={Services} />
           <Route path='/products' component={Products} />
           <Route path='/sign-up' component={SignUp} />
+          
+          <Route path='/facebook' component={() => { 
+     window.location.href = 'https://www.facebook.com/benlingmotors.yesh/'; 
+     return null;
+}}/>
         </Switch>
       </Router>
     </>
